@@ -1,8 +1,10 @@
 **📱 Calculator Web Application**
+
 This project is a responsive, modern web calculator built with HTML5, CSS3, and Vanilla JavaScript.
 It performs basic arithmetic operations, square, square root, and percentage calculations, and allows toggling between light and dark themes for a better user experience.
 
 **🛠️ Built With**
+
 HTML5: Structured the page layout and created calculator buttons, display areas, and theme toggle elements.
 
 CSS3: Styled the entire calculator with custom themes, responsive design, and smooth hover/click animations.
